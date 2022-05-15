@@ -44,7 +44,7 @@ This chart shows how many customers fall into each RFM score group. The most fre
 
 ### 🔥 Heatmap of Average Monetary Value by Recency and Frequency
 
-![Heatmap](screenshots/rfm_monetary_heatmap.png)
+![Heatmap](screenshots/rfm_heatmap.png)
 
 The heatmap displays the **average monetary value** for each combination of recency and frequency scores. Higher scores indicate more valuable customers. Customers with **high recency and frequency** (bottom-right) are the most profitable.
 
